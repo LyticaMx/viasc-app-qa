@@ -1,5 +1,5 @@
 # QA- Viasc APP (VISUAI)
-Repositorio para proponer mejoras y eliminar defectos a la aplicación de Viasc.
+Repositorio para proponer mejoras y levantar defectos a la aplicación de Viasc.
 
 ### Instrucciones para reportar defectos o proponer mejoras
 
