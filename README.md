@@ -17,4 +17,4 @@ Asignación del proceso:
 * Lytica (Morado)
 * High FLyers (Rojo)
 
-![Flujo de trabajo](/flow.jpg?raw=true)
+![Flujo de trabajo](/flow.png?raw=true)
