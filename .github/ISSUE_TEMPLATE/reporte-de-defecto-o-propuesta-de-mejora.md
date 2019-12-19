@@ -23,5 +23,10 @@ Describe cómo se espera que funcione la aplicación para la característica que
 **Screenshots**
 Si aplica, agrega screenshots que muestren el problema o bocetos que muestren el resultado esperado.
 
+**Dispositivo de prueba:**
+ - Dispositivo: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Version [e.g. 22]
+
 **Contexto adicional**
 Si aplica, agrega un contexto adicional sobre la prueba realizada.
