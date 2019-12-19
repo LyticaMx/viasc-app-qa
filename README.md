@@ -10,3 +10,11 @@ Repositorio para proponer mejoras y levantar defectos a la aplicación de Viasc.
 1. Al terminar, en la sección de *Labels* agregar la etiqueta de **enhancement** si se trata de una propuesta de mejora o de **bug** si se trata de un defecto.
 1. Agregar la etiqueta correspondiente a la sección, debe empezar con *section-*
 1. Dar click a *Submit new issue*
+
+#### Flujo de trabajo Lytica - High Flyers
+
+Asignación del proceso:
+* Lytica (Morado)
+* High FLyers (Rojo)
+
+![Flujo de trabajo](/flow.jpg?raw=true)
